@@ -64,5 +64,5 @@ This project demonstrates how data from social media can be turned into insights
 
 ---
 
-## 📂 Project Structure
+
 
